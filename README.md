@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com front-end
 - 📚 Estudando React Hooks com o curso: "React - The Complete Guide (incl Hooks, React Router, Redux)"
-- 📚 Finalizando meu projeto final do curso "CS50's Web Programming with Python and JavaScript" da universidade de Harvard
 
 ## GitHub
 
