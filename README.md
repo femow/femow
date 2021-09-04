@@ -1,8 +1,8 @@
 ## Felipe Motonari Uchiyama
 
-- 🔭 Hoje trabalho com front-end
-- 📚 Estudando React Hooks com o curso: "React - The Complete Guide (incl Hooks, React Router, Redux)"
-- 📚 Lendo o livro: "Cracking the Coding Interview 189 Programming Questions and Solutions"
+- 🔭 Front end developer
+- 📚 Studying React Hooks with the course: "React - The Complete Guide (incl Hooks, React Router, Redux)"
+- 📚 Reading the book: "Cracking the Coding Interview 189 Programming Questions and Solutions"
 
 ## GitHub
 
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femow&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
- ## Ferramentas
+ ## Tools
   
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
