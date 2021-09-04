@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 📚 Estudando React Hooks com o curso: "React - The Complete Guide (incl Hooks, React Router, Redux)"
+- 📚 Lendo o livro: "Cracking the Coding Interview 189 Programming Questions and Solutions"
 
 ## GitHub
 
@@ -11,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femow&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
- ## Languages
+ ## Ferramentas
   
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
