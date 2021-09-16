@@ -3,14 +3,6 @@
 - 🔭 Front end developer
 - 📚 Studying React Hooks with the course: "React - The Complete Guide (incl Hooks, React Router, Redux)"
 - 📚 Reading the book: "Cracking the Coding Interview 189 Programming Questions and Solutions"
-
-## GitHub
-
-<div>
-  <a href="https://beacons.ai/femow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=femow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femow&layout=compact&langs_count=16&theme=dark"/>
-</div>
   
  ## Tools
   
@@ -27,7 +19,13 @@
 <div>
   <a href="https://www.linkedin.com/in/felipe-uchiyama-64a35b150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
+
+## GitHub
+
+<div>
+  <a href="https://beacons.ai/femow">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femow&layout=compact&langs_count=16&theme=dark"/>
+</div>
   
 ## Contact
   
