@@ -2,7 +2,6 @@
 
 - 🔭 Front end developer
 - 📚 Studying React Hooks with the course: "React - The Complete Guide (incl Hooks, React Router, Redux)"
-- 📚 Reading the book: "Cracking the Coding Interview 189 Programming Questions and Solutions"
   
  ## Tools
   
